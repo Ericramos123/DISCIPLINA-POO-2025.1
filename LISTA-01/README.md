@@ -78,7 +78,3 @@ Sabe-se que: A = ((base maior + base menor) * altura) / 2
 **EXE10 - Área de um Quadrado**  
 Faça um programa que calcule e mostre a área de um quadrado.  
 Sabe-se que: A = lado * lado
-
----
-
-Se quiser, posso gerar uma versão em PDF ou organizar isso como README para GitHub. Deseja?
