@@ -1,4 +1,12 @@
-# EXERCÍCIOS RESOLVIDOS
+# 💻 Exercícios de Lógica de Programação
+Este repositório foi criado para auxiliar no aprendizado de lógica de programação, com questões do capítulo 5 organizadas em duas categorias principais:
+
+📖 Exercícios Resolvidos: Contêm enunciado e são recomendados para estudo com foco em lógica e prática.
+
+📝 Exercícios Propostos: Contêm apenas o enunciado e devem ser resolvidos pelos alunos como desafio.
+
+
+## 📖 EXERCÍCIOS RESOLVIDOS
 
 ### 1. Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
 a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.
@@ -64,34 +72,34 @@ e) Mostre o código, número de horas trabalhadas, valor da hora trabalhada, sal
 Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 
 ### 9. Faça um programa que receba duas notas de seis alunos. Calcule e mostre:
-■■ a média aritmética das duas notas de cada aluno; e
+- a média aritmética das duas notas de cada aluno; e
 
-■■ a mensagem que está na tabela a seguir:
+- a mensagem que está na tabela a seguir:
 
 média ariTméTica mensa gem
 Até 3 Reprovado
 Entre 3 e 7 Exame
 De 7 para cima Aprovado
 
-■■ o total de alunos aprovados;
+- o total de alunos aprovados;
 
-■■ o total de alunos de exame;
+- o total de alunos de exame;
 
-■■ o total de alunos reprovados;
+- o total de alunos reprovados;
 
-■■ a média da classe.
+- a média da classe.
 
 ### 10. Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um programa que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre:
 
-■■ a quantidade de jogadores com idade inferior a 18 anos;
+- a quantidade de jogadores com idade inferior a 18 anos;
 
-■■ a média das idades dos jogadores de cada time;
+- a média das idades dos jogadores de cada time;
 
-■■ a média das alturas de todos os jogadores do campeonato; e
+- a média das alturas de todos os jogadores do campeonato; e
 
-■■ a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
+- a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
 
-# EXERCÍCIOS PROPOSTOS
+## 📝 EXERCÍCIOS PROPOSTOS
 
 ### 1. Faça um programa que leia cinco grupos de quatro valores (A, B, C, D) e mostre-os na ordem lida. Em seguida, organize-os em ordem crescente e decrescente.
 
@@ -147,39 +155,39 @@ Digite um número: 5
 
 ### 6. Uma loja utiliza o código V para transação à vista e P para transação a prazo. Faça um programa que receba o código e o valor de quinze transações, calcule e mostre:
 
-■■ o valor total das compras à vista;
+- o valor total das compras à vista;
 
-■■ o valor total das compras a prazo;
+- o valor total das compras a prazo;
 
-■■ o valor total das compras efetuadas; e
+- o valor total das compras efetuadas; e
 
-■■ o valor da primeira prestação das compras a prazo juntas, sabendo-se que serão pagas em três vezes.
+- o valor da primeira prestação das compras a prazo juntas, sabendo-se que serão pagas em três vezes.
 
 ### 7. Faça um programa que receba a idade, a altura e o peso de cinco pessoas, calcule e mostre:
 
-■■ a quantidade de pessoas com idade superior a 50 anos;
+- a quantidade de pessoas com idade superior a 50 anos;
 
-■■ a média das alturas das pessoas com idade entre 10 e 20 anos;
+- a média das alturas das pessoas com idade entre 10 e 20 anos;
 
-■■ a porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analisadas.
+- a porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analisadas.
 
 ### 8. Faça um programa que receba a idade, o peso, a altura, a cor dos olhos (A — azul; P — preto; V — verde; e C — castanho) e a cor dos cabelos (P — preto; C — castanho; L — louro; e R — ruivo) de seis pessoas, e que calcule e mostre:
 
-■■ a quantidade de pessoas com idade superior a 50 anos e peso inferior a 60 kg;
+- a quantidade de pessoas com idade superior a 50 anos e peso inferior a 60 kg;
 
-■■ a média das idades das pessoas com altura inferior a 1,50 m;
+- a média das idades das pessoas com altura inferior a 1,50 m;
 
-■■ a porcentagem de pessoas com olhos azuis entre todas as pessoas analisadas; e
+- a porcentagem de pessoas com olhos azuis entre todas as pessoas analisadas; e
 
-■■ a quantidade de pessoas ruivas e que não possuem olhos azuis.
+- a quantidade de pessoas ruivas e que não possuem olhos azuis.
 
 ### 9. Faça um programa que receba dez idades, pesos e alturas, calcule e mostre:
 
-■■ a média das idades das dez pessoas;
+- a média das idades das dez pessoas;
 
-■■ a quantidade de pessoas com peso superior a 90 kg e altura inferior a 1,50 metro; e
+- a quantidade de pessoas com peso superior a 90 kg e altura inferior a 1,50 metro; e
 
-■■ a porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1,90 m.
+- a porcentagem de pessoas com idade entre 10 e 30 anos entre as pessoas que medem mais de 1,90 m.
 
 ### 10. Faça um programa que receba dez números, calcule e mostre a soma dos números pares e a soma dos números primos.
 
