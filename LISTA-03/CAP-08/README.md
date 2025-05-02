@@ -1,5 +1,5 @@
 # 🖥️Exercícios de Lógica de Programação
-Este repositório foi criado para auxiliar no aprendizado de lógica de programação, somente com as questões RESOLVIDAS do capítulo 6!
+Este repositório foi criado para auxiliar no aprendizado de lógica de programação, somente com as questões RESOLVIDAS do capítulo 8!
 
 ## 📚 Contendo enunciados que são recomendados para estudo com foco em lógica e prática, que já são respondidos.
 
