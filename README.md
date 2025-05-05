@@ -14,8 +14,6 @@ Capítulo 05 – Estrutura de Repetição
 
 Capítulo 06 – Vetor
 
-Capítulo 07 – Matriz
-
 Capítulo 08 – Sub-rotina
 
 # 📌 Organização dos Exercícios
