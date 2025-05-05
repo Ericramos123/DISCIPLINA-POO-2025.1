@@ -18,15 +18,15 @@ Exame final - peso 5
 
 Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue a tabela:
 
-8 - 10 - A
-
-7 - 8 - B
-
-6 - 7 - C
-
-5 - 6 - D
-
-0 - 5 - E
+|8 - 10 - A|
+|---------|
+|7 - 8 - B|
+|         |
+|6 - 7 - C|
+|         |
+|5 - 6 - D|
+|         |
+|0 - 5 - E|
 
 ### 2. Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.
 
