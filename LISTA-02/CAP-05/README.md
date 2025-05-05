@@ -47,20 +47,28 @@ a) Leia as informações dos funcionários, exceto o valor da hora trabalhada, n
 
 b) Calcule o valor da hora trabalhada, conforme a tabela a seguir. Adote o valor de R$ 450,00 para o salário mínimo.
 
-caTegoria Turno Valor da hora Trabalhada
-G - N - 18% do salário mínimo
-G - M ou V - 15% do salário mínimo
-O  - N - 13% do salário mínimo
-O  - M ou V - 10% do salário mínimo
+|   Categoria      |   turno    | valor da hora trabalhada |
+|--------------|---------------|--------------------|
+|    G   |     N       |  18% do salário mínimo      |
+|              |             | |
+|    G  |     M OU V      |  15% do salário mínimo  |
+|              |               | |
+|    O   |       N    | 13% do salário mínimo |
+|              |               | |
+|    O   |     M OU V      | 10% do salário mínimo |
+
+
 
 c) Calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas trabalhadas.
 
 d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acordo com seu salário inicial, conforme a tabela a seguir.
 
-salário inicial auXílio alimenTação
-Até R$ 300,00 - 20% do salário inicial
-Entre R$ 300,00 e R$ 600,00 - 15% do salário inicial
-Acima de R$ 600,00 - 5% do salário inicial
+| Salário Inicial        | Auxílio Alimentação        |
+|------------------------|----------------------------|
+| Até R$ 300,00          | 20% do salário inicial     |
+| R$ 300,00 - R$ 600,00  | 15% do salário inicial     |
+| Acima de R$ 600,00     | 5% do salário inicial      |
+
 
 e) Mostre o código, número de horas trabalhadas, valor da hora trabalhada, salário inicial, auxílio alimentação e salário final (salário inicial + auxílio alimentação).
 
@@ -112,16 +120,14 @@ b) a porcentagem de pessoas na primeira faixa etária com relação ao total de 
 
 c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas
 
-faiXa eTária e idade
-1a Até 15 anos
+| Faixa Etária | Idade                |
+|--------------|----------------------|
+| 1ª           | Até 15 anos          |
+| 2ª           | De 16 a 30 anos      |
+| 3ª           | De 31 a 45 anos      |
+| 4ª           | De 46 a 60 anos      |
+| 5ª           | Acima de 60 anos     |
 
-2a De 16 a 30 anos
-
-3a De 31 a 45 anos
-
-4a De 46 a 60 anos
-
-5a Acima de 60 anos
 
 ### 4. Faça um programa que receba um número, calcule e mostre a tabuada desse número.
 Exemplo:
