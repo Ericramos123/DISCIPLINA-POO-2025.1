@@ -18,23 +18,27 @@ Exame final - peso 5
 
 Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue a tabela:
 
-|8 - 10 - A|
-|---------|
-|7 - 8 - B|
-|         |
-|6 - 7 - C|
-|         |
-|5 - 6 - D|
-|         |
-|0 - 5 - E|
+|   Média      |   conceito    |
+|--------------|---------------|
+|     8 - 10   |       A       |
+|              |               |
+|     7 - 8    |       B       |
+|              |               |
+|     6 - 7    |       C       |
+|              |               |
+|     5 - 6    |       D       |
+|              |               |
+|     0 - 5    |       C       |
 
 ### 2. Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.
 
--> 0 e < 3 = Reprovado
-
--> 3 e < 7 = Exame
-
--> 7 e < 10 = Aprovado
+|   Média      |   Mensagem    |
+|--------------|---------------|
+|     0 - 2,9  |    Reprovado  |
+|              |               |
+|     3 - 6,9  |    Exame      |
+|              |               |
+|     7 - 10   |    Aprovado   |
 
 ### 3. Faça um programa que receba dois números e mostre o maior.
 
@@ -45,6 +49,16 @@ Faça um programa que receba as três notas, calcule e mostre a média ponderada
 ### 6. Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
 
 ### 7. Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
+
+Formas de escrita conforme o valor de I
+
+|  Valor de I  |   Forma de Escrever A, B e C   |
+|--------------|--------------------------------|
+|     0 - 2,9  |    A, B e C em ordem crescente |
+|              |                                |
+|     3 - 6,9  |  A, B e C em ordem decrescente |
+|              |                                |
+|     7 - 10   |  O maior entre A,B e C no meio de dois|
 
 ### 8. Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.
 
@@ -61,11 +75,13 @@ Faça um programa que receba as três notas, calcule e mostre a média ponderada
 
 ### 2. Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir:
 
-media > 0 e < 3 = Reprovado
-
-media > 3 e < 7 = Exame
-
-media > 7 e < 10 = Aprovado
+|   Média Aritmética  |   Mensagem    |
+|--------------|---------------|
+|     0 - 3    |    Reprovado  |
+|              |               |
+|     3 - 7    |    Exame      |
+|              |               |
+|     7 - 10   |    Aprovado   |
 
 ### 3. Faça um programa que receba dois números e mostre o menor.
 
@@ -73,13 +89,13 @@ media > 7 e < 10 = Aprovado
 
 ### 5. Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha do usuário.
 
-1 - Média entre os números digitados
-
-2 - Diferença do maior pelo menor
-
-3 - Produto entre os números digitados
-
-4 - Divisão do primeiro pelo segundo
+|   Média      |   Mensagem    |
+|--------------|---------------|
+|       1      |    Média entre os números digitados  |
+|              |               |
+|       2      |    diferença do maior pelo menor      |
+|       3      |       Produto entre os números digitados       |
+|        4     |    Divisão do primeiro pelo segundo   |
 
 Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa. Lembre-se de que, na operação 4, o segundo número deve ser diferente de zero.
 
@@ -95,19 +111,22 @@ c - Raiz cúbica de cada um dos números.
 
 ### 8. Faça um programa para calcular e mostrar o salário reajustado de um funcionário. O percentual de aumento encontra-se na tabela a seguir.
 
-Até R$ 300,00 - 35% de aumento
 
-Maior que 300,00 - 15% de aumento
+|   Salários      |   Percentual de aumento    |
+|--------------|---------------|
+|       Até R$ 300,00     |   35%  |
+|              |               |
+|       Acima de R$ 300,00      |    15%    |
+
 
 ### 9. Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo médio no último ano. Faça um programa que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela a seguir. Mostre o saldo médio e o valor do crédito.
 
-Acima de R$400,00 - 30% do saldo medio
-
-de R$400,00 a 300,00 - 25% do saldo medio
-
-de R$300,00 a 200,00 - 20% do saldo medio
-
-até R$200,00 - 10% do saldo medio
+|   Saldo Médio      |  Percentual    |
+|--------------|---------------|
+|Acima de R$ 400,00|   30% do saldo médio%  |
+|  R$ 400,00 a R$ 300,00            |        25% do saldo médio       |
+|   R$ 300,00 a R$ 200,00     |  20% do saldo médio    |
+| Até R$ 200,00    | 10% do saldo médio |
 
 ### 10. O preço ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor.
 
